@@ -1,7 +1,5 @@
-<img width="1208" height="772" alt="download" src="https://github.com/user-attachments/assets/17af0561-1787-4048-8e7b-4112481e5820" />
 # 🐦 Ju-Conception
-
-> Vos idées méritent de prendre leur envol.
+<img width="1208" height="772" alt="download" src="https://github.com/user-attachments/assets/17af0561-1787-4048-8e7b-4112481e5820" />
 
 Développement web • IA • Photographie • Vidéo • Communication
 
