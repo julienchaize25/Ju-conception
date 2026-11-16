@@ -1,16 +1,55 @@
-# Ju-conception
-Mes projets numériques réunissant développement web, automatisation, intelligence artificielle, photo, vidéo et solutions métiers. Une approche pratique basée sur l'expérience terrain et la relation client.
-Projet : Application X
+# 🐦 Ju-Conception
 
-Objectif :
-...
+> Vos idées méritent de prendre leur envol.
 
-Technologies :
+Développement web • IA • Photographie • Vidéo • Communication
+
+🌐 Site web : https://ju-conception.fr
+
+## Présentation
+
+Ju-Conception est un studio créatif réunissant :
+
+- Création de sites web
+- Photographie
+- Retouche photo
+- Montage vidéo
+- Communication digitale
+- Développement d'applications
+- Intelligence artificielle
+
+## Aperçu du site
+
+![Accueil](images/home.jpg)
+
+## Réalisations
+
+### Climat du Réel
+
+Site de vulgarisation scientifique sur le climat.
+
+![Climat du Réel](images/climatdureel.jpg)
+
+### Des Clics Aux Fermes Locales
+
+Annuaire des producteurs locaux du Calvados.
+
+![Des Clics Aux Fermes Locales](images/fermes-locales.jpg)
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- VS Code
 - Python
 - Node.js
-- Git
-- Claude
-- Copilot
+- IA générative
 
-Captures :
-...
+## Auteur
+
+Julien Chaize
+
+🌐 https://ju-conception.fr
