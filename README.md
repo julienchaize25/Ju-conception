@@ -1,54 +1,121 @@
-# 🐦 Ju-Conception
-<img width="1208" height="772" alt="download" src="https://github.com/user-attachments/assets/17af0561-1787-4048-8e7b-4112481e5820" />
+<p align="center">
+  <img src="URL_DE_TON_LOGO" width="220" alt="Logo Ju-Conception">
+</p>
 
-Développement web • IA • Photographie • Vidéo • Communication
+<h1 align="center">🐦 Ju-Conception</h1>
 
-🌐 Site web : https://ju-conception.fr
+<p align="center">
+  <strong>Vos idées méritent de prendre leur envol.</strong>
+</p>
 
-## Présentation
+<p align="center">
+  Développement Web • Intelligence Artificielle • Photographie • Vidéo • Communication
+</p>
 
-Ju-Conception est un studio créatif réunissant :
+<p align="center">
+  🌐 <a href="https://ju-conception.fr">ju-conception.fr</a>
+</p>
 
-- Création de sites web
-- Photographie
-- Retouche photo
-- Montage vidéo
-- Communication digitale
-- Développement d'applications
-- Intelligence artificielle
+---
 
-## Aperçu du site
+# À propos
 
-![Accueil](images/home.jpg)
+**Ju-Conception** est un studio créatif indépendant réunissant plusieurs savoir-faire complémentaires :
 
-## Réalisations
+- 🌐 Création de sites web
+- 🤖 Intelligence artificielle
+- 📷 Photographie
+- 🎨 Retouche photo
+- 🎬 Montage vidéo
+- 📢 Communication digitale
+- 💻 Développement d'applications
 
-### Climat du Réel
+Chaque projet est pensé avec le même objectif :
 
-Site de vulgarisation scientifique sur le climat.
+> Créer des outils, des contenus et des expériences utiles, efficaces et esthétiques.
 
-![Climat du Réel](images/climatdureel.jpg)
+---
 
-### Des Clics Aux Fermes Locales
+# Aperçu du site
 
-Annuaire des producteurs locaux du Calvados.
+<p align="center">
+  <img src="URL_CAPTURE_ACCUEIL" alt="Accueil Ju-Conception" width="100%">
+</p>
 
-![Des Clics Aux Fermes Locales](images/fermes-locales.jpg)
+---
 
-## Technologies
+# Réalisations
 
-- HTML
-- CSS
+## 🌍 Climat du Réel
+
+Site de vulgarisation scientifique dédié à la compréhension du climat.
+
+✅ Sources vérifiées  
+✅ Données accessibles  
+✅ Explications pédagogiques  
+✅ Approche factuelle
+
+---
+
+## 🌱 Des Clics Aux Fermes Locales
+
+Plateforme dédiée aux producteurs locaux du Calvados.
+
+✅ Carte interactive  
+✅ Recherche simplifiée  
+✅ Valorisation des circuits courts  
+✅ Référencement local
+
+<p align="center">
+  <img src="URL_CAPTURE_REALISATIONS" alt="Réalisations Ju-Conception" width="100%">
+</p>
+
+---
+
+# Technologies utilisées
+
+### Développement
+
+- HTML5
+- CSS3
 - JavaScript
-- Git
-- GitHub
-- VS Code
 - Python
 - Node.js
+
+### Outils
+
+- VS Code
+- Git
+- GitHub
+- Copilot
+- Claude
+- Cline
+
+### Création numérique
+
+- Retouche photo
+- Montage vidéo
+- Design graphique
 - IA générative
 
-## Auteur
+---
 
-Julien Chaize
+# Mon parcours
 
-🌐 https://ju-conception.fr
+Mon expérience réunit plusieurs univers :
+
+- Service client EDF
+- Réseaux et eau (Veolia)
+- Commerce et relation client
+- Développement web
+- Communication numérique
+- Création de contenu multimédia
+
+Cette diversité me permet de comprendre à la fois les besoins métiers, les utilisateurs et les aspects techniques d'un projet.
+
+---
+
+# Objectif
+
+Concevoir
+
